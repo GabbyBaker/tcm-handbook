@@ -3,7 +3,7 @@
   - [Purpose](1.1-purpose.md)
   - [Mission & Vision](1.2-mission-vision.md)
   - [Guiding Principles](1.3-core-values.md)
-- Governance
+- [Governance](2.0-governance.md)
   - Board Roles and Responsibilities
   - Expectations of the Board
   - 
