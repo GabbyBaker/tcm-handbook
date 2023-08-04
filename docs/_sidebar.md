@@ -4,10 +4,8 @@
   - [Mission & Vision](1.2-mission-vision.md)
   - [Guiding Principles](1.3-core-values.md)
 - [Governance](2.0-governance.md)
-  - Board Roles and Responsibilities
-  - Expectations of the Board
-  - 
-
+  - [Expectations of the Board](2.1-board-responsibilites.md)
+  - [Duties of Board Officers](2.2-board-officers.md)
 - Working together
   - Strategy & Storytelling
   - Planning
