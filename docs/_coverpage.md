@@ -1,10 +1,9 @@
-# 💻
+<img src="C:\Users\Gabby.BRAINWAVE\Git Projects\The Carpenter's Academy Handbook\docs\images\Submark Logo Color.png" style="zoom:33%;" />
 
 <h1 id="cover-heading">
-  My Open Publishing Space
+  The Carpenter's Mission Handbook
 </h1>
 
-> Create, Share and Collaborate
 
-[Explore](#my-open-publishing-space)
-[GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
+> A Central Source of Truth for Working Together in Harmony
+
