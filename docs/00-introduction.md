@@ -8,4 +8,4 @@ We believe that our internal practices have significant implications, not only f
 
 
 
-![image-20230808161500688](C:\Users\Gabby.BRAINWAVE\Git Projects\The Carpenter's Academy Handbook\docs\images\incorporation.png)
+![image-20230808161500688](images\incorporation.png)
